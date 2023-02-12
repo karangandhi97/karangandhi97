@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently a Salesforce Marketing Cloud Personalization Developer
 - 📫 How to reach me: gandhik1997@gmail.com
 - Also, I love video games!
 
