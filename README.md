@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karan
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently a Salesforce Marketing Cloud Personalization Developer
-- 📫 How to reach me: gandhik1997@gmail.com
+- 📫 How to reach me: karangandhi.dev@gmail.com
 - Also, I love video games!
 
 <!---
